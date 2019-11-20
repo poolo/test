@@ -1,7 +1,7 @@
 See 'git help <command>' to read about a specific subcommand
 
 Main Porcelain Commands
-   add                  Add file contents to the index
+   add                  Add file contents to the index ---
    am                   Apply a series of patches from a mailbox
    archive              Create an archive of files from a named tree
    bisect               Use binary search to find the commit that introduced a bug
